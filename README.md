@@ -110,7 +110,3 @@ Access the deployed app here: [Marketplace App](https://marketplace-t.glide.page
 - Enable notifications for order status updates.
 - Allow users to upload product videos.
 
----
-
-### Author
-Developed by Vivek Kumar.
